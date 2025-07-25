@@ -1,0 +1,1 @@
+# (skills-integrate-mcp-with-copilot)[https://github.com/zoelinsg/skills-integrate-mcp-with-copilot]

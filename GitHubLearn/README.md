@@ -1,0 +1,28 @@
+# GitHub Learn
+## Explanation 
+- (skills-introduction-to-github)[]
+- (skills-communicate-using-markdown)[]
+- (skills-github-pages)[]
+- (skills-review-pull-requests)[]
+- (skills-code-with-codespaces)[]
+- (skills-introduction-to-repository-management)[]
+- (skills-getting-started-with-github-copilot)[]
+- (skills-your-first-extension-for-github-copilot)[]
+- (skills-integrate-mcp-with-copilot)[]
+- (skills-hello-github-actions)[]
+- (skills-test-with-actions)[]
+- (skills-introduction-to-codeql)[]
+
+## Repository
+- (skills-introduction-to-github)[https://github.com/zoelinsg/skills-introduction-to-github]
+- (skills-communicate-using-markdown)[https://github.com/zoelinsg/skills-communicate-using-markdown]
+- (skills-github-pages)[https://github.com/zoelinsg/skills-github-pages]
+- (skills-review-pull-requests)[https://github.com/zoelinsg/skills-review-pull-requests]
+- (skills-code-with-codespaces)[https://github.com/zoelinsg/skills-code-with-codespaces]
+- (skills-introduction-to-repository-management)[https://github.com/zoelinsg/skills-introduction-to-repository-management]
+- (skills-getting-started-with-github-copilot)[https://github.com/zoelinsg/skills-getting-started-with-github-copilot]
+- (skills-your-first-extension-for-github-copilot)[https://github.com/zoelinsg/skills-your-first-extension-for-github-copilot]
+- (skills-integrate-mcp-with-copilot)[https://github.com/zoelinsg/skills-integrate-mcp-with-copilot]
+- (skills-hello-github-actions)[https://github.com/zoelinsg/skills-hello-github-actions]
+- (skills-test-with-actions)[https://github.com/zoelinsg/skills-test-with-actions]
+- (skills-introduction-to-codeql)[https://github.com/zoelinsg/skills-introduction-to-codeql]
