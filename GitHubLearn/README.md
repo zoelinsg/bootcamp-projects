@@ -1,19 +1,19 @@
 # GitHub Learn
 
-- [GitHub Skills](https://learn.github.com/skills) 平台完成的實作任務
-- 涵蓋 GitHub 基礎操作、Markdown 文件撰寫、GitHub Pages 網頁部署、自動化流程（Actions）、程式開發空間（Codespaces）、以及 Copilot 輔助開發等主題。
+- 完成 [GitHub Skills](https://learn.github.com/skills) 平台的實作任務  
+- 涵蓋 GitHub 基本操作、Markdown 文件撰寫、GitHub Pages 部署、Actions 自動化流程、Codespaces 雲端開發、以及 Copilot AI 輔助編程等技能
 
-| 任務名稱 | 簡介 | 筆記 | repository |
-|----------|----------|----------|----------|
-| Introduction to GitHub | 認識 GitHub 的基本操作：Issue、分支、Commit 等 | [查看](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-introduction-to-github.md) | [連結](https://github.com/zoelinsg/skills-introduction-to-github) |
-| Communicate Using Markdown | 學習使用 Markdown 撰寫文件與格式化內容 | [查看](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-communicate-using-markdown.md) | [連結](https://github.com/zoelinsg/skills-communicate-using-markdown) |
-| GitHub Pages | 將 GitHub 倉庫快速轉成靜態網頁 | [查看](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-github-pages.md) | [連結](https://github.com/zoelinsg/skills-github-pages) |
-| Review Pull Requests | 模擬團隊協作流程，進行 Pull Request 審查 | [查看](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-review-pull-requests.md) | [連結](https://github.com/zoelinsg/skills-review-pull-requests) |
-| Code with Codespaces | 在 GitHub 提供的雲端環境中開發與測試程式 | [查看](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-code-with-codespaces.md) | [連結](https://github.com/zoelinsg/skills-code-with-codespaces) |
-| Repository Management | 學習如何管理分支、設定保護規則與團隊流程 | [查看](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-introduction-to-repository-management.md) | [連結](https://github.com/zoelinsg/skills-introduction-to-repository-management) |
-| Getting Started with GitHub Copilot | 初步體驗使用 Copilot 輔助撰寫程式碼 | [查看](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-getting-started-with-github-copilot.md) | [連結](https://github.com/zoelinsg/skills-getting-started-with-github-copilot) |
-| Your First Extension for GitHub Copilot | 實作一個簡單的 Copilot 擴充套件 | [查看](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-your-first-extension-for-github-copilot.md) | [連結](https://github.com/zoelinsg/skills-your-first-extension-for-github-copilot) |
-| Integrate MCP with Copilot | 結合 MCP 平台與 Copilot 自動產生內容 | [查看](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-integrate-mcp-with-copilot.md) | [連結](https://github.com/zoelinsg/skills-integrate-mcp-with-copilot) |
-| Hello GitHub Actions | 建立第一個 GitHub Actions 自動化流程 | [查看](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-hello-github-actions.md) | [連結](https://github.com/zoelinsg/skills-hello-github-actions) |
-| Test with GitHub Actions | 利用 Actions 自動執行測試流程 | [查看](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-test-with-actions.md) | [連結](https://github.com/zoelinsg/skills-test-with-actions) |
-| Introduction to CodeQL | 使用 CodeQL 進行靜態程式碼安全分析 | [查看](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-introduction-to-codeql.md) | [連結](https://github.com/zoelinsg/skills-introduction-to-codeql) |
+| Task | Description | Notes | Repository |
+|------|------|------|----------|
+| Introduction to GitHub | 認識 GitHub 基本操作：Issue、分支、Commit 等 | [View](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-introduction-to-github.md) | [Link](https://github.com/zoelinsg/skills-introduction-to-github) |
+| Communicate Using Markdown | 使用 Markdown 撰寫與格式化技術文件 | [View](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-communicate-using-markdown.md) | [Link](https://github.com/zoelinsg/skills-communicate-using-markdown) |
+| GitHub Pages | 將 GitHub 倉庫部署為靜態網站 | [View](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-github-pages.md) | [Link](https://github.com/zoelinsg/skills-github-pages) |
+| Review Pull Requests | 模擬團隊合作中的 Pull Request 審查流程 | [View](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-review-pull-requests.md) | [Link](https://github.com/zoelinsg/skills-review-pull-requests) |
+| Code with Codespaces | 在 GitHub 雲端 Codespaces 環境中開發與測試 | [View](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-code-with-codespaces.md) | [Link](https://github.com/zoelinsg/skills-code-with-codespaces) |
+| Repository Management | 管理分支策略、保護規則與協作流程 | [View](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-introduction-to-repository-management.md) | [Link](https://github.com/zoelinsg/skills-introduction-to-repository-management) |
+| Getting Started with GitHub Copilot | 體驗 GitHub Copilot 進行 AI 輔助開發 | [View](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-getting-started-with-github-copilot.md) | [Link](https://github.com/zoelinsg/skills-getting-started-with-github-copilot) |
+| Your First Extension for GitHub Copilot | 開發一個簡易 Copilot 擴充功能 | [View](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-your-first-extension-for-github-copilot.md) | [Link](https://github.com/zoelinsg/skills-your-first-extension-for-github-copilot) |
+| Integrate MCP with Copilot | 將 Copilot 與 MCP 整合，自動產生內容 | [View](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-integrate-mcp-with-copilot.md) | [Link](https://github.com/zoelinsg/skills-integrate-mcp-with-copilot) |
+| Hello GitHub Actions | 建立第一個 GitHub Actions 自動化流程 | [View](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-hello-github-actions.md) | [Link](https://github.com/zoelinsg/skills-hello-github-actions) |
+| Test with GitHub Actions | 利用 Actions 自動化測試與驗證流程 | [View](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-test-with-actions.md) | [Link](https://github.com/zoelinsg/skills-test-with-actions) |
+| Introduction to CodeQL | 使用 CodeQL 進行靜態程式碼安全分析 | [View](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-introduction-to-codeql.md) | [Link](https://github.com/zoelinsg/skills-introduction-to-codeql) |
