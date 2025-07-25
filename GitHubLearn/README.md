@@ -1,6 +1,7 @@
 # GitHub Learn
 
- [GitHub Skills](https://learn.github.com/skills) 平台完成的實作任務
+- [GitHub Skills](https://learn.github.com/skills) 平台完成的實作任務
+- 涵蓋 GitHub 基礎操作、Markdown 文件撰寫、GitHub Pages 網頁部署、自動化流程（Actions）、程式開發空間（Codespaces）、以及 Copilot 輔助開發等主題。
 
 | 任務名稱 | 簡介 | 筆記 | repository |
 |----------|----------|----------|----------|
