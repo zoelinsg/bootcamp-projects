@@ -1,7 +1,7 @@
 # GitHub Learn
 
 - 完成 [GitHub Skills](https://learn.github.com/skills) 平台的實作任務  
-- 涵蓋 GitHub 基本操作、Markdown 文件撰寫、GitHub Pages 部署、Actions 自動化流程、Codespaces 雲端開發、以及 Copilot AI 輔助編程等技能
+- 涵蓋 GitHub 基本操作、Markdown 文件撰寫、GitHub Pages 部署、Actions 自動化流程、Codespaces、以及 Copilot 輔助等技能
 
 | Task | Description | Notes | Repository |
 |------|------|------|----------|
