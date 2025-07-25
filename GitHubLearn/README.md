@@ -1,9 +1,8 @@
 # GitHub Learn
 
- [GitHub Skills](https://learn.github.com/skills) 平台完成的所有實作練習。
- 涵蓋 GitHub 基礎操作、Markdown 文件撰寫、GitHub Pages 網頁部署、自動化流程（Actions）、程式開發空間（Codespaces）、以及 Copilot 輔助開發等主題。
+ [GitHub Skills](https://learn.github.com/skills) 平台完成的實作任務
 
-| 模組名稱 | 模組簡介 | 課程筆記 | 原始倉庫 |
+| 任務名稱 | 簡介 | 筆記 | repository |
 |----------|----------|----------|----------|
 | Introduction to GitHub | 認識 GitHub 的基本操作：Issue、分支、Commit 等 | [查看](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-introduction-to-github.md) | [連結](https://github.com/zoelinsg/skills-introduction-to-github) |
 | Communicate Using Markdown | 學習使用 Markdown 撰寫文件與格式化內容 | [查看](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-communicate-using-markdown.md) | [連結](https://github.com/zoelinsg/skills-communicate-using-markdown) |
