@@ -1,4 +1,4 @@
-# W3C CSS Basics
+# W3C - CSS Basics
 
 - **[Module 1: Getting Started with CSS](https://github.com/zoelinsg/bootcamp-projects/blob/main/W3C/CSS%20Basics/css01.md)**
 - **[Module 2: Building CSS Rules](https://github.com/zoelinsg/bootcamp-projects/blob/main/W3C/CSS%20Basics/css02.md)**
