@@ -10,7 +10,6 @@
   color: blue;
 }
 ```
-
 - **ID（唯一）**
     - 單元素專屬
     - HTML：`id="uniqueId"`
@@ -48,7 +47,6 @@
 | `:hover` | 滑鼠懸停 |
 | `:focus` | 輸入框聚焦 |
 | `:active` | 按下未放開 |
-
 #### 範例：
 ```css
 li:hover { background-color: yellow; }
@@ -71,7 +69,6 @@ input:focus { background-color: blue; }
 ```css
 parent child { ... }
 ```
-
 #### 範例：
 ```css
 p img {

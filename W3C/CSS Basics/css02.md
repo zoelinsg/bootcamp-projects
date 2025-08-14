@@ -6,8 +6,7 @@
 ```html
 <tagname>內容</tagname>
 ```
-
-### 基本結構
+#### 基本結構
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -22,8 +21,7 @@
   </body>
 </html>
 ```
-
-### 常見元素
+#### 常見元素
 | 標籤 | 用途 |
 | --- | --- |
 | `<p>` | 段落 |
@@ -45,7 +43,6 @@ selector {
   property: value;
 }
 ```
-
 #### 範例：
 ```css
 p {
@@ -63,7 +60,6 @@ p {
   <li>Item 2</li>
 </ul>
 ```
-
 #### CSS：
 ```css
 body { background-color: silver; }

@@ -53,13 +53,12 @@ p {
 - 📽 [Demo 影片](https://edx-video.net/W3CCSS0I2016-V001200_DTH.mp4)
 
 ## 8. Hello Beautiful World 實作
-### HTML
+- ### HTML
 ```html
 <link rel="stylesheet" href="styles.css">
 <p>Hello Beautiful World</p>
 ```
-
-### CSS
+- ### CSS
 ```css
 p {
   color: blue;
