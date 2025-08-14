@@ -60,10 +60,10 @@ tr:hover {
 </audio>
 ```
 
-#### 屬性重點：
-- `controls`：顯示控制介面
-- `autoplay`, `muted`, `loop`：播放行為控制
-- `preload`：載入策略（`none`, `metadata`, `auto`）
+- 屬性重點：
+  - `controls`：顯示控制介面
+  - `autoplay`, `muted`, `loop`：播放行為控制
+  - `preload`：載入策略（`none`, `metadata`, `auto`）
 
 ### `<video>` 搭配字幕 `<track>`
 ```html

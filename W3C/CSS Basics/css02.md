@@ -121,19 +121,19 @@ p { margin-bottom: 50px; }        /* 外距 */
 
 ## 9. 實作 — 個人網頁設計
 - **內容：**
-- `h1` 名字
-- `h2` 喜歡的句子
-- 段落描述興趣
-- 有序清單：喜歡的食物
-- 無序清單：喜歡的網站（加連結）
+  - `h1` 名字
+  - `h2` 喜歡的句子
+  - 段落描述興趣
+  - 有序清單：喜歡的食物
+  - 無序清單：喜歡的網站（加連結）
 
 - **樣式要求：**
-- 三種字體顏色
-- 兩種背景色
-- 一種 serif + 一種 sans-serif
-- italic / bold
-- 至少一個 border
-- margin & padding
+  - 三種字體顏色
+  - 兩種背景色
+  - 一種 serif + 一種 sans-serif
+  - italic / bold
+  - 至少一個 border
+  - margin & padding
 
 ## 10. 總結
 - 理解 HTML + CSS 基礎

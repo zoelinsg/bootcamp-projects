@@ -117,16 +117,16 @@ img {
 
 ## 9. 實作 — Profile 頁面
 - **HTML 要求：**
-- `header` / `footer`
-- 三大區塊：教育背景 / 工作經歷 / 喜好
-- 每區 2 個子區塊（標題 + 內容）
+  - `header` / `footer`
+  - 三大區塊：教育背景 / 工作經歷 / 喜好
+  - 每區 2 個子區塊（標題 + 內容）
 
 - **CSS 要求：**
-- ≥1 個 ID
-- ≥2 種 class（各用於至少 2 元素）
-- 1 個 `:hover`
-- 1 個 `:active` 或其他偽類
-- ≥3 次 contextual selector 使用
+  - ≥1 個 ID
+  - ≥2 種 class（各用於至少 2 元素）
+  - 1 個 `:hover`
+  - 1 個 `:active` 或其他偽類
+  - ≥3 次 contextual selector 使用
 
 ## 10. 總結
 - Class：共用樣式；ID：單元素精準控制
