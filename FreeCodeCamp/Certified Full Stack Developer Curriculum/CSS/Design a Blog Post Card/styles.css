@@ -1,0 +1,17 @@
+.blog-post-card {
+  background-color: white;
+  width:400;
+}
+
+/*
+.post-img {}
+
+.post-content {}
+
+.post-title {}
+
+.post-excerpt {}
+*/
+.read-more {
+  display:  inline-block;
+}
