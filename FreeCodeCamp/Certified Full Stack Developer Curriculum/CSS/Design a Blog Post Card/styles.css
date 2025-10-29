@@ -1,17 +1,44 @@
 .blog-post-card {
   background-color: white;
-  width:400;
+  width: 350px;
+  border-radius: 12px;     
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  margin: 40px auto;
 }
 
-/*
-.post-img {}
+.post-img {
+  width: 100%;             
+  display: block;
+  border-bottom: 4px solid #eee;  
+}
 
-.post-content {}
+.post-content {
+  padding: 20px;         
+}
 
-.post-title {}
+.post-title {
+  color: #222;
+  margin: 10px 0;
+}
+.post-excerpt {
+  color: #555;            
+  margin: 10px 0 20px;
+  font-size: 14px;
+}
 
-.post-excerpt {}
-*/
 .read-more {
-  display:  inline-block;
+  display: inline-block;
+  color: #fff;                
+  background-color: #333;     
+  text-decoration: none;
+  padding: 10px 18px;           
+  margin: 10px 0;               
+  border-radius: 6px;           
+  transition: background-color 0.3s ease;
+}
+
+.read-more:hover {
+  background-color: #555;
 }

@@ -1,0 +1,13 @@
+#house {
+  position: relative;
+  width: 500px;
+  height: 400px;
+  background-color: linear-gradient(blue,green);
+}
+
+#chimney {
+  z-index: 3;
+}
+#roof {
+  top: 0;
+}

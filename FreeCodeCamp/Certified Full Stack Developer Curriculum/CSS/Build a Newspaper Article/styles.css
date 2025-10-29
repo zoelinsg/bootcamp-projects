@@ -1,0 +1,39 @@
+html {
+  background-color:	#FFFFFF;
+  font-size: 24px;
+}
+
+.newspaper {
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.date {
+  text-align:center;
+}
+
+.headline {
+  font-weight: bold;
+}
+
+.sub-headline {
+  font-weight: 100;
+  font-style: italic;
+}
+
+.author {
+  font-weight: bold;
+}
+
+.text {
+  text-indent: 20px;
+}
+
+.text::first-letter {
+  font-weight: bold;
+  font-size: 2em;
+}
+.name {
+  font-size: 2rem;
+  text-transform: uppercase;
+}

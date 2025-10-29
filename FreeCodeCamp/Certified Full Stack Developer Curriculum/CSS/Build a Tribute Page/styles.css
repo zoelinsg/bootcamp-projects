@@ -1,0 +1,21 @@
+#title {
+  text-align:center;
+}
+
+#img-caption {
+  text-align:center;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+#tribute-info {
+  text-align:center;    
+}
+
+h3 {
+  text-align:center;  
+}
