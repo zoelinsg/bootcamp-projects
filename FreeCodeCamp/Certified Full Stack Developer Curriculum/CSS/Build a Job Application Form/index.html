@@ -1,37 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Job Application Form</title>
-    <link href="styles.css" rel="stylesheet"/>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Job Application Form</title>
+  <link href="styles.css" rel="stylesheet" />
 </head>
 <body>
-    <div class="container">
-        <form>
-            <label for="name">Full Name:<input id="name" name="name" type="text" required placeholder="Enter your name"/></label>
-            <label for="email">Email:<input id="email" name="email" type="email" required placeholder="Enter your email"/></label>
+  <div class="container">
+    <form>
+      <label for="name">Full Name:</label>
+      <input id="name" name="name" type="text" required placeholder="Enter your name" />
 
-            <label for="position">Position:
-            <select id="position" name="position">
-                <option value="">Select a position</option>
-                <option value="1">Developer</option>
-                <option value="2">Designer</option>
-                <option value="3">Manager</option>
-            </select>
-            </label>
+      <label for="email">Email:</label>
+      <input id="email" name="email" type="email" required placeholder="Enter your email" />
 
-            <fieldset class="radio-group">
-                <legend>Availability:</legend>
-                <label for="full-time"><input id="full-time" type="radio" name="availability" class="inline" checked /> Full-Time</label>
-                <label for="part-time"><input id="part-time" type="radio" name="availability" class="inline" /> Part-Time</label>
-            </fieldset>
+      <label for="position">Position:</label>
+      <select id="position" name="position" required>
+        <option value="">Select a position</option>
+        <option value="1">Developer</option>
+        <option value="2">Designer</option>
+        <option value="3">Manager</option>
+      </select>
 
-            <label for="message">Why do you want this job?
-            <textarea id="message" name="message" rows="4" cols="45" placeholder="Write your motivation"></textarea>
-            </label>
-            <input type="submit" value="Submit Application" />            
-        </form>
-    </div>
+      <fieldset class="radio-group">
+        <legend>Availability:</legend>
+
+        <input id="full-time" type="radio" name="availability" checked />
+        <label for="full-time">Full-Time</label>
+
+        <input id="part-time" type="radio" name="availability" />
+        <label for="part-time">Part-Time</label>
+      </fieldset>
+
+      <label for="message">Why do you want this job?</label>
+      <textarea id="message" name="message" rows="4" cols="45" required placeholder="Write your motivation"></textarea>
+
+      <button type="submit">Submit Application</button>
+    </form>
+  </div>
 </body>
 </html>
