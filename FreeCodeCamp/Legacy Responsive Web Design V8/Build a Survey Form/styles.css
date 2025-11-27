@@ -1,0 +1,57 @@
+:root{
+  --card-bg: rgba(27,27,50,.9);
+  --text: #f5f6f7;
+  --muted: #c7c9e7;
+  --label: #e9e9f6;
+  --option: #d6d8ef;
+  --input-bg: #ffffff;
+  --input-text: #222;
+  --placeholder: #9aa0b4;
+  --green: #37af65;
+}
+*{ box-sizing:border-box; }
+body{
+  margin:0; min-height:100vh; color:var(--text);
+  font-family:Tahoma, "Noto Sans TC", system-ui, sans-serif;
+  background-image:
+    linear-gradient(115deg, rgba(58,58,158,.85), rgba(136,136,206,.75)),
+    url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
+  background-size:cover; background-position:center;
+  display:grid; place-items:start center; padding:3rem 1rem;
+}
+.card{
+  width:min(680px,92vw);
+  background:var(--card-bg);
+  border-radius:8px;
+  box-shadow:0 10px 25px rgba(0,0,0,.35);
+  padding:1.75rem;
+}
+.heading{ text-align:center; margin-bottom:.5rem; }
+.heading #title{ margin:0 0 .25rem; }
+.heading #description{ margin:0 0 1rem; color:var(--muted); font-size:.95rem; }
+form{ margin-top:.5rem; }
+.form-group{ margin-bottom:1rem; }
+label, legend{ display:block; margin-bottom:.4rem; font-weight:600; color:var(--label); }
+.muted{ color:var(--muted); font-weight:400; }
+input[type="text"],
+input[type="email"],
+input[type="number"],
+select,
+textarea{
+  width:100%;
+  padding:.75rem .9rem;
+  border:none; border-radius:4px;
+  background:var(--input-bg);
+  color:var(--input-text);
+  outline:none;
+}
+::placeholder{ color:var(--placeholder); }
+fieldset{ border:0; padding:0; margin:0 0 1rem; }
+.option{ display:flex; align-items:center; gap:.55rem; margin:.4rem 0; color:var(--option); }
+.option input{ transform:translateY(1px); }
+#submit, .btn{
+  width:100%; background:var(--green); color:#fff;
+  border:0; padding:.9rem 1rem; border-radius:4px; font-size:1rem; cursor:pointer;
+}
+#submit:hover{ filter:brightness(1.05); }
+#submit:active{ transform:translateY(1px); }

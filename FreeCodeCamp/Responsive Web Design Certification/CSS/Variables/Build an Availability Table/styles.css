@@ -1,0 +1,109 @@
+:root {
+  --color0: #f7fff7;
+  --color1: #d9f7d9;
+  --color2: #b8f0b8;
+  --color3: #8be08b;
+  --color4: #4ac24a;
+  --color5: #158015;
+
+  --solid-border: 2px solid #074b07;
+  --dashed-border: 2px dashed #074b07;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #b8d6c9;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
+}
+
+main {
+  padding: 40px;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 0 auto 60px auto;
+  background-color: #e9fff0;
+}
+
+th,
+td {
+  min-width: 80px;
+  padding: 8px 12px;
+  text-align: center;
+}
+
+thead th {
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+
+.time {
+  text-align: right;
+  padding-right: 16px;
+  font-weight: 600;
+}
+
+.available-0 {
+  background-color: var(--color0);
+}
+
+.available-1 {
+  background-color: var(--color1);
+}
+
+.available-2 {
+  background-color: var(--color2);
+}
+
+.available-3 {
+  background-color: var(--color3);
+}
+
+.available-4 {
+  background-color: var(--color4);
+}
+
+.available-5 {
+  background-color: var(--color5);
+}
+
+.sharp td {
+  border-bottom: var(--solid-border);
+}
+
+.half td {
+  border-bottom: var(--dashed-border);
+}
+
+#legend {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  font-size: 0.95rem;
+}
+
+#legend-gradient {
+  width: 220px;
+  height: 24px;
+  border: 1px solid #074b07;
+  background-image: linear-gradient(
+    90deg,
+    var(--color0) 0% 16%,
+    var(--color1) 16% 32%,
+    var(--color2) 32% 48%,
+    var(--color3) 48% 64%,
+    var(--color4) 64% 80%,
+    var(--color5) 80% 100%
+  );
+}

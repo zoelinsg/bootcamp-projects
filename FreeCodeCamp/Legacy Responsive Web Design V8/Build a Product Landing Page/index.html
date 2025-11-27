@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Product Landing Page</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header id="header">
+      <div class="logo-wrap">
+        <img
+          id="header-img"
+          src="https://cdn.freecodecamp.org/testable-projects-fcc/images/product-landing-page-logo.png"
+          alt="Original Trombones logo"
+        >
+        <span class="brand-name">Original Trombones</span>
+      </div>
+
+      <nav id="nav-bar">
+        <a class="nav-link" href="#features">Features</a>
+        <a class="nav-link" href="#how-it-works">How It Works</a>
+        <a class="nav-link" href="#pricing">Pricing</a>
+      </nav>
+    </header>
+
+    <main>
+      <section id="hero">
+        <h1>Handcrafted, home-made masterpieces</h1>
+        <form
+          id="form"
+          action="https://www.freecodecamp.com/email-submit"
+          method="post"
+        >
+          <input
+            id="email"
+            name="email"
+            type="email"
+            placeholder="Enter your email address"
+            required
+          >
+          <input
+            id="submit"
+            type="submit"
+            value="GET STARTED"
+          >
+        </form>
+      </section>
+
+      <section id="features" class="section features">
+        <div class="feature-item">
+          <h2>Premium Materials</h2>
+          <p>
+            Our trombones use the shiniest brass which is sourced locally.
+            This increases the longevity of every instrument.
+          </p>
+        </div>
+        <div class="feature-item">
+          <h2>Fast Shipping</h2>
+          <p>
+            We ship your trombone as soon as it is finished and offer free
+            returns if you are not fully satisfied.
+          </p>
+        </div>
+        <div class="feature-item">
+          <h2>Quality Assurance</h2>
+          <p>
+            Every purchase is carefully tested to ensure there are no damages
+            or faults and that the pitch is perfect.
+          </p>
+        </div>
+      </section>
+
+      <section id="how-it-works" class="section video-section">
+        <h2>See How It Sounds</h2>
+        <iframe
+          id="video"
+          src="https://www.youtube.com/embed/y8Yv4pnO7qc"
+          title="Trombone performance"
+          frameborder="0"
+          allowfullscreen
+        ></iframe>
+      </section>
+
+      <section id="pricing" class="section pricing">
+        <div class="price-card">
+          <h3>Tenor Trombone</h3>
+          <p class="price">$600</p>
+          <ul>
+            <li>Beginner friendly</li>
+            <li>Lightweight design</li>
+            <li>Great for practice</li>
+          </ul>
+          <button>Select</button>
+        </div>
+
+        <div class="price-card">
+          <h3>Bass Trombone</h3>
+          <p class="price">$900</p>
+          <ul>
+            <li>Rich, deep sound</li>
+            <li>Perfect for ensembles</li>
+            <li>Includes hard case</li>
+          </ul>
+          <button>Select</button>
+        </div>
+
+        <div class="price-card">
+          <h3>Valve Trombone</h3>
+          <p class="price">$1200</p>
+          <ul>
+            <li>Trumpet-style valves</li>
+            <li>Great for jazz bands</li>
+            <li>Professional finish</li>
+          </ul>
+          <button>Select</button>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p>Copyright 2016, Original Trombones</p>
+    </footer>
+  </body>
+</html>

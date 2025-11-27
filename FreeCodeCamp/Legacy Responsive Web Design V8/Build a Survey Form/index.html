@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Survey Form</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main>
+      <header class="heading">
+        <h1 id="title">freeCodeCamp Survey Form</h1>
+        <p id="description">Thank you for taking the time to help us improve the platform</p>
+      </header>
+
+      <form id="survey-form" class="card">
+        <div class="form-group">
+          <label for="name" id="name-label">Name</label>
+          <input id="name" type="text" placeholder="Enter your name" required />
+        </div>
+
+        <div class="form-group">
+          <label for="email" id="email-label">Email</label>
+          <input id="email" type="email" placeholder="Enter your email" required />
+        </div>
+
+        <div class="form-group">
+          <label for="number" id="number-label">Age <span class="muted">(optional)</span></label>
+          <input id="number" type="number" min="0" max="200" placeholder="Age" />
+        </div>
+
+        <div class="form-group">
+          <label for="dropdown">Which option best describes your current role?</label>
+          <select id="dropdown" name="role">
+            <option>Select current role</option>
+            <option>Student</option>
+            <option>Full Time Job</option>
+            <option>Full Time Learner</option>
+            <option>Prefer not to say</option>
+            <option>Other</option>
+          </select>
+        </div>
+
+        <fieldset class="form-group">
+          <legend>Would you recommend freeCodeCamp to a friend?</legend>
+          <label class="option"><input type="radio" name="recommend" value="Definitely" />Definitely</label>
+          <label class="option"><input type="radio" name="recommend" value="Maybe" />Maybe</label>
+          <label class="option"><input type="radio" name="recommend" value="Not sure" />Not sure</label>
+        </fieldset>
+
+        <div class="form-group">
+          <label for="feature-select">What is your favorite feature of freeCodeCamp?</label>
+          <select id="feature-select" name="feature">
+            <option>Select an option</option>
+            <option>Challenges</option>
+            <option>Projects</option>
+            <option>Community</option>
+            <option>Open Source</option>
+          </select>
+        </div>
+
+        <fieldset class="form-group">
+          <legend>What would you like to see improved? <span class="muted">(Check all that apply)</span></legend>
+          <label class="option"><input type="checkbox" value="Front-end Projects" />Front-end Projects</label>
+          <label class="option"><input type="checkbox" value="Back-end Projects" />Back-end Projects</label>
+          <label class="option"><input type="checkbox" value="Data Visualization" />Data Visualization</label>
+          <label class="option"><input type="checkbox" value="Challenges" />Challenges</label>
+          <label class="option"><input type="checkbox" value="Open Source Community" />Open Source Community</label>
+          <label class="option"><input type="checkbox" value="Gitter help rooms" />Gitter help rooms</label>
+          <label class="option"><input type="checkbox" value="Videos" />Videos</label>
+          <label class="option"><input type="checkbox" value="City Meetups" />City Meetups</label>
+          <label class="option"><input type="checkbox" value="Wiki" />Wiki</label>
+          <label class="option"><input type="checkbox" value="Forum" />Forum</label>
+          <label class="option"><input type="checkbox" value="Additional Courses" />Additional Courses</label>
+        </fieldset>
+
+        <div class="form-group">
+          <label for="comments">Any comments or suggestions?</label>
+          <textarea id="comments" placeholder="Enter your comment here..." rows="5"></textarea>
+        </div>
+
+        <button id="submit" type="submit" class="btn">Submit</button>
+      </form>
+    </main>
+  </body>
+</html>
