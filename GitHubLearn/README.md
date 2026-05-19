@@ -1,0 +1,19 @@
+# GitHub Learn
+
+- Completed hands-on practice tasks on the [GitHub Skills](https://learn.github.com/skills) platform  
+- Covers GitHub fundamentals, Markdown documentation, GitHub Pages deployment, GitHub Actions workflows, Codespaces, and Copilot-assisted development
+
+| Task | Description | Notes | Repository |
+|------|------|------|----------|
+| Introduction to GitHub | Learn the basic GitHub workflow, including issues, branches, commits, and pull requests | [View](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-introduction-to-github.md) | [Link](https://github.com/zoelinsg/skills-introduction-to-github) |
+| Communicate Using Markdown | Practice writing and formatting technical documentation with Markdown | [View](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-communicate-using-markdown.md) | [Link](https://github.com/zoelinsg/skills-communicate-using-markdown) |
+| GitHub Pages | Deploy a repository as a static website using GitHub Pages | [View](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-github-pages.md) | [Link](https://github.com/zoelinsg/skills-github-pages) |
+| Review Pull Requests | Simulate the pull request review process in a team collaboration workflow | [View](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-review-pull-requests.md) | [Link](https://github.com/zoelinsg/skills-review-pull-requests) |
+| Code with Codespaces | Develop and test in GitHub Codespaces cloud environments | [View](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-code-with-codespaces.md) | [Link](https://github.com/zoelinsg/skills-code-with-codespaces) |
+| Repository Management | Practice branch strategy, protection rules, and collaboration workflows | [View](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-introduction-to-repository-management.md) | [Link](https://github.com/zoelinsg/skills-introduction-to-repository-management) |
+| Getting Started with GitHub Copilot | Explore AI-assisted development with GitHub Copilot | [View](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-getting-started-with-github-copilot.md) | [Link](https://github.com/zoelinsg/skills-getting-started-with-github-copilot) |
+| Your First Extension for GitHub Copilot | Build a simple GitHub Copilot extension | [View](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-your-first-extension-for-github-copilot.md) | [Link](https://github.com/zoelinsg/skills-your-first-extension-for-github-copilot) |
+| Integrate MCP with Copilot | Integrate Copilot with MCP to automate content generation and task workflows | [View](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-integrate-mcp-with-copilot.md) | [Link](https://github.com/zoelinsg/skills-integrate-mcp-with-copilot) |
+| Hello GitHub Actions | Create your first GitHub Actions automation workflow | [View](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-hello-github-actions.md) | [Link](https://github.com/zoelinsg/skills-hello-github-actions) |
+| Test with GitHub Actions | Use GitHub Actions to automate testing and validation workflows | [View](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-test-with-actions.md) | [Link](https://github.com/zoelinsg/skills-test-with-actions) |
+| Introduction to CodeQL | Use CodeQL for static code security analysis | [View](https://github.com/zoelinsg/bootcamp-projects/tree/main/GitHubLearn/skills-introduction-to-codeql.md) | [Link](https://github.com/zoelinsg/skills-introduction-to-codeql) |
